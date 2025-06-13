@@ -1,4 +1,4 @@
-# onsprojectfe
+# SRM - Frontend
 
 > My wonderful Nuxt.js project
 
